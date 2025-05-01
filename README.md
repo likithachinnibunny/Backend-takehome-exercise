@@ -97,7 +97,3 @@ poetry run get-papers-list "machine learning in medicine" -f ml_medicine.csv
 - **Actionable**: Includes installation and usage instructions with example commands.
 - **Structured**: Uses tables and code blocks for better readability.
 - **Minimalist**: Focuses on essential information without unnecessary details.
-
-Thanks to chatGPT to help me finish this assessment.
-
----
